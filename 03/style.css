@@ -1,0 +1,35 @@
+body{
+    background: aqua;
+    font: bold 20px arial;
+}
+header{
+    background: rgb(0, 255, 242);
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(0, 204, 255);
+    font: bold 20px arial;
+    color: white;
+
+}
+section{
+    background: white;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(0, 204, 255);
+    margin-top: 40px;
+}
+div#res{
+    line-height: 60px;
+}
+    
+footer{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font: bolder 18px arial;
+}
